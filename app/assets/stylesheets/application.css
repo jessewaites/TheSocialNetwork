@@ -11,3 +11,12 @@
  *= require_self
  *= require_tree .
  */
+
+body {
+  padding: 40px;
+}
+
+.brand
+{
+  background: url(images/networklogo.png) no-repeat left center;
+}
